@@ -1,0 +1,81 @@
+
+/* As hex codes */
+.color-primary-0 { color: #2B536F }	/* mellan */
+.color-primary-1 { color: #CAD9E4 }	/* ljusast */
+.color-primary-2 { color: #63859D }	/* ljusare */
+.color-primary-3 { color: #082A41 }	/* mörkare */
+.color-primary-4 { color: #000B13 }	/* mörkast */
+/* As RGBa codes */
+.rgba-primary-0 { color: rgba( 43, 83,111,1) }	/* mellan */
+.rgba-primary-1 { color: rgba(202,217,228,1) }	/* ljusast */
+.rgba-primary-2 { color: rgba( 99,133,157,1) }	/* ljusare */
+.rgba-primary-3 { color: rgba(  8, 42, 65,1) }	/* mörkare */
+.rgba-primary-4 { color: rgba(  0, 11, 19,1) }	/* mörkast */
+
+
+
+body{
+    color: #000B13;
+    font-family: HKGrotesk, sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+.row{
+border-radius: 20px;
+}
+
+.jumbotron{
+    background-color: #ffffff;
+}
+
+.jumbotron .btn-block {
+    text-align: center;
+    background-color: #2B536F;
+}
+
+.description{
+    margin: 30px;
+}
+
+.exercise{
+    margin-bottom: 20px;
+    margin-left: 1.6%;
+    margin-right: 1.6%;
+}
+
+.card{
+    border: 2px solid #CAD9E4;
+    margin: 1.6%;
+    padding: 10px;
+}
+
+#bootstrap{
+    background-color: #63859D;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+#css{
+    background-color: #CAD9E4;
+    margin-bottom: 20px;
+}
+
+#html{
+    padding-bottom: 20px;
+    border: 2px solid #CAD9E4;
+}
+
+
+.rounded-circle {
+    border-radius: 50%!important;
+}
+
+.exercise .btn-primary{
+    background-color: #2B536F;
+    width: 70%;
+}
+
+.col-sm-4{
+    width: 30%;
+}

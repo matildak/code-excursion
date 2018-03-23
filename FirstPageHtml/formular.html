@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="se">
+<head>
+    <meta charset="UTF-8">
+    <title>Ett formulär</title>
+</head>
+<body>
+
+<h1>Register</h1>
+
+<form>
+    <p>
+    <label for="fname">Förnamn: </label>
+    <input name="firstName" id="fname" type="text" placeholder="Jane" required>
+
+    <label for="lname">Efternamn: </label>
+    <input name="lastName" id="lname" type="text" placeholder="Doe">
+    </p>
+
+    <p>
+    <label for="female">Kvinna: </label>
+    <input name="gender" id="female" type="radio" value="female">
+    <label for="male"> Man: </label>
+    <input name="gender" id="male" type="radio" value="male">
+    <label for="other"> Annat: </label>
+    <input name="gender" id="other" type="radio" value="other">
+    </p>
+
+    <p>
+    <label for="email">Epost: </label>
+    <input name="email" id="email" placeholder="Din Epost" type="email" required>
+
+    <label for="passwd">Lösenord: </label>
+    <input name="password" id="passwd" placeholder="Ditt Lösenord" type="password" pattern="^[a-z0-9]{5,10}$" required title="Bostäver eller siffror 5-10 st">
+    </p>
+
+    <p>
+        <label for="day">Min Födelsedag</label>
+        <select name="day" id="day">
+            <option>Dag</option>
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+        </select>
+        <select name="month">
+            <option>Månad</option>
+            <option>januari</option>
+            <option>februari</option>
+            <option>mars</option>
+        </select>
+        <select name="year">
+            <option>År</option>
+            <option>1970</option>
+            <option>1971</option>
+            <option>1972</option>
+        </select>
+    </p>
+
+    <p>
+        Jag godkänner alla villkor :-)
+        <input name="terms" id="terms" type="checkbox" value="termsOk" required>
+    </p>
+
+    <button>Skicka</button>
+</form>
+
+
+</body>
+</html>

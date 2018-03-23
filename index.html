@@ -9,6 +9,7 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -18,16 +19,64 @@
     <![endif]-->
 </head>
 <body>
+<div class="container">
+    <header>
+        <div class="jumbotron">
+            <h1 class="display-4">Code Excursion Exercises</h1>
+            <p class="lead">Following the Webdeveloper Bootcamp course on Udemy.</p>
+            <hr class="my-4">
+            <p class="lead">
+                <a class="btn btn-primary btn-block" href="http://code-excursion.se/" role="button" target="_blank">Code
+                    Excursion</a>
+            </p>
+        </div>
+    </header>
+    <div class="row" id="bootstrap">
+        <div class="description"><h2>Bootstrap</h2></div>
+        <div class="card col-sm-4">
+            <h5 class="card-title">Card title</h5>
+            <div class="card-body">
+                This is some text within a card body.
+            </div>
+        </div>
+        <div class="card col-sm-4">
+            <h5 class="card-title">Card title</h5>
+            <div class="card-body">
+                This is some text within a card body.
+            </div>
+        </div>
+        <div class="card col-sm-4">
+            <h5 class="card-title">Card title</h5>
+            <div class="card-body">
+                This is some text within a card body.
+            </div>
+        </div>
+    </div><!--end bootstrap-->
 
+    <div class="row" id="css">
+        <div class="description"><h2>Pure CSS</h2></div>
+        <div class="col-sm-4 exercise"><img class="rounded-circle"
+                                            src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
+                                            alt="Generic placeholder image" width="120" height="120"></div>
+        <div class="col-sm-4 exercise"><img class="rounded-circle"
+                                            src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
+                                            alt="Generic placeholder image" width="120" height="120"></div>
+        <div class="col-sm-4 exercise"><img class="rounded-circle"
+                                            src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
+                                            alt="Generic placeholder image" width="120" height="120"></div>
+    </div><!--end css-->
 
-<div class="container-fluid">
-    <h1>Excercises from Boot Camp</h1>
-    <div class="row">
-        <div class="col-md-4">1</div>
-        <div class="col-md-4">2</div>
-        <div class="col-md-4">3</div>
-    </div>
-</div>
+    <div class="row" id="html">
+        <div class="description"><h2>Pure HTML</h2></div>
+        <div class="col-sm-4 exercise"><a class="btn btn-primary btn-lg" href="FirstPageHtml/FirstAgain.html"
+                                          sm target="_blank">FirstHTML</a></div>
+        <div class="col-sm-4 exercise"><a class="btn btn-primary btn-lg" href="FirstPageHtml/dog.html"
+                                          sm target="_blank">Pokémon</a></div>
+        <div class="col-sm-4 exercise"><a class="btn btn-primary btn-lg" href="FirstPageHtml/formular.html"
+                                          target="_blank">Forms</a></div>
+    </div><!--end html-->
+</div> <!--end container-->
+
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
