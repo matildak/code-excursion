@@ -91,3 +91,14 @@ hr{
 .col-sm-4{
     width: 30%;
 }
+
+
+@media (max-width: 767px) {
+    .col-sm-4{
+        width: 90%;
+    }
+
+    .card {
+        margin: 20px auto;
+    }
+}
