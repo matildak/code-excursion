@@ -72,6 +72,9 @@ hr{
     background-color: #CAD9E4;
     margin-bottom: 20px;
 }
+#tictactoe img {
+    width: 90%;
+}
 
 #html{
     padding-bottom: 20px;

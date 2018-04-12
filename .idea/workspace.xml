@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d463cd48-d289-45cb-8a66-bc108c351e67" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/basicJavascript/ifElse.html" afterPath="$PROJECT_DIR$/basicJavascript/ifElse.html" />
-      <change beforePath="$PROJECT_DIR$/basicJavascript/whileLoops.html" afterPath="$PROJECT_DIR$/basicJavascript/whileLoops.html" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,21 +17,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="738">
-              <caret line="101" column="18" lean-forward="false" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+            <state relative-caret-position="465">
+              <caret line="75" column="15" lean-forward="false" selection-start-line="75" selection-start-column="15" selection-end-line="75" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            <state relative-caret-position="333">
+              <caret line="84" column="87" lean-forward="false" selection-start-line="84" selection-start-column="87" selection-end-line="84" selection-end-column="87" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstAgain.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstPageHtml/FirstAgain.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dog.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstPageHtml/dog.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -61,7 +80,6 @@
         <option value="$PROJECT_DIR$/index.css" />
         <option value="$PROJECT_DIR$/basicJavascript/guessingGame.js" />
         <option value="$PROJECT_DIR$/basicJavascript/guessingGame.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/basicJavascript/whileLoops.js" />
         <option value="$PROJECT_DIR$/basicJavascript/annoy.html" />
         <option value="$PROJECT_DIR$/basicJavascript/annoy.js" />
@@ -73,6 +91,7 @@
         <option value="$PROJECT_DIR$/JavascriptFunctions/TrueFalse.js" />
         <option value="$PROJECT_DIR$/basicJavascript/ifElse.html" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -119,6 +138,11 @@
               <item name="code-excursion" type="b2602c69:ProjectViewProjectNode" />
               <item name="code-excursion" type="462c0819:PsiDirectoryNode" />
               <item name="basicJavascript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-excursion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-excursion" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstPageHtml" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code-excursion" type="b2602c69:ProjectViewProjectNode" />
@@ -252,12 +276,12 @@
       <workItem from="1521750912723" duration="10494000" />
       <workItem from="1522435260381" duration="1398000" />
       <workItem from="1522774589284" duration="396000" />
-      <workItem from="1523020775057" duration="6316000" />
+      <workItem from="1523020775057" duration="7246000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21539000" />
+    <option name="totallyTimeSpent" value="22469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="532" y="23" width="1138" height="1023" extended-state="0" />
@@ -370,20 +394,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FirstPageHtml/scratch.html" />
     <entry file="file://$PROJECT_DIR$/FirstPageHtml/formular.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstPageHtml/FirstAgain.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstPageHtml/dog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -507,18 +517,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/FirstPageHtml/FirstAgain.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstPageHtml/dog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="101" column="18" lean-forward="false" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+        <state relative-caret-position="465">
+          <caret line="75" column="15" lean-forward="false" selection-start-line="75" selection-start-column="15" selection-end-line="75" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="84" column="87" lean-forward="false" selection-start-line="84" selection-start-column="87" selection-end-line="84" selection-end-column="87" />
           <folding />
         </state>
       </provider>
