@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d463cd48-d289-45cb-8a66-bc108c351e67" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,6 +16,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="40" column="89" lean-forward="false" selection-start-line="40" selection-start-column="89" selection-end-line="40" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ToDo-v1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/todoList.v1/ToDo-v1.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -26,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ToDo-v1.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ToDo-v1.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/todoList.v1/ToDo-v1.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="945">
@@ -72,9 +82,9 @@
         <option value="$PROJECT_DIR$/JavascriptFunctions/TrueFalse.html" />
         <option value="$PROJECT_DIR$/JavascriptFunctions/TrueFalse.js" />
         <option value="$PROJECT_DIR$/basicJavascript/guessingGame.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/todoList.v1/ToDo-v1.html" />
         <option value="$PROJECT_DIR$/todoList.v1/ToDo-v1.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -250,12 +260,12 @@
       <workItem from="1522435260381" duration="1398000" />
       <workItem from="1522774589284" duration="396000" />
       <workItem from="1523020775057" duration="12746000" />
-      <workItem from="1524076103091" duration="2671000" />
+      <workItem from="1524076103091" duration="3084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30640000" />
+    <option name="totallyTimeSpent" value="31053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="23" width="1542" height="1023" extended-state="0" />
@@ -543,14 +553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="52" column="81" lean-forward="false" selection-start-line="52" selection-start-column="81" selection-end-line="52" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/todoList.v1/TrueFalse.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -567,6 +569,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/todoList.v1/ToDo-v1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/todoList.v1/ToDo-v1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -575,10 +585,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/todoList.v1/ToDo-v1.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        <state relative-caret-position="189">
+          <caret line="40" column="89" lean-forward="false" selection-start-line="40" selection-start-column="89" selection-end-line="40" selection-end-column="89" />
           <folding />
         </state>
       </provider>
