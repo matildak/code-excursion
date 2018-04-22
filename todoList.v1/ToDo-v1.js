@@ -7,12 +7,11 @@ window.setTimeout(function () { //this is a workaround for chrome to show html-t
 
         //check input choice
         if (input === "list") {
-            console.log(todos);
+        listTodos();
         } else if (input === "new") {
-            //ask for a new todo
-            var newTodo = prompt("Enter a new Todo");
-            //add to the array
-            todos.push(newTodo);
+        addTodo();
+        }else if (input = "delete"){
+        deleteTodo();
         }
         //ask again
         input = prompt("What would you like to do? new, list or quit?");
@@ -21,9 +20,28 @@ window.setTimeout(function () { //this is a workaround for chrome to show html-t
 },500);
 
 
+function listTodos() {
+    console.log("***********");
+    todos.forEach(function(todo,i){
+        console.log(i + ": " + todo);
+    });
+    console.log("***********");
+}
+function addTodo() {
+    //ask for a new todo
+    var newTodo = prompt("Enter a new Todo");
+    //add to the array
+    todos.push(newTodo);
+    console.log("new item added");
+}
 
-
-
+function deleteTodo() {
+    //aks for what number to delete
+    var deleteTodo = prompt("Enter number of the ToDo you want to delete");
+    //delete that todo
+    todos.splice(deleteTodo,1); //first param where to start deleteing and second how many to dlete
+    console.log("Todo " + deleteTodo + " is deleted");
+}
 
 /*
 Note about Todo List Code Along Part 2
